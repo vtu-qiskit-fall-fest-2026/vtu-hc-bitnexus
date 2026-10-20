@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **BitNexus** · Team ID `VTU-QFF-HC-0099` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#BitNexus)
+[⬆ Back to Top](#bitnexus)
 
 </div>
