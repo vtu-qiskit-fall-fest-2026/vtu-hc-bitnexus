@@ -121,22 +121,20 @@ flowchart LR
 ## 📁 Project Structure
 
 ```text
-vtu-hc-bitnexus/
-├── README.md              # This file
-├── requirements.txt       # Python dependencies
-├── pyproject.toml         # Project metadata (optional)
-├── .gitignore
-├── notebooks/             # Jupyter notebooks for experiments
-│   └── exploration.ipynb
-├── src/
-│   ├── __init__.py
-│   ├── circuit.py         # Quantum circuit construction
-│   ├── optimizer.py       # Optimization loop
-│   └── main.py            # Entry point
-├── data/                  # Datasets (use Git LFS for large files)
-├── tests/                 # Unit tests
-│   └── test_circuit.py
-└── docs/                  # Notes, diagrams, reports
+Q-Rescue-Next/
+├── README.md
+├── requirements.txt
+├── app.py
+├── risk_model.py
+├── classical_optimizer.py
+├── quantum_optimizer.py
+├── optimizers.py
+├── resilience_replay.py
+├── analytics.py
+├── charts.py
+├── data/
+├── tests/
+└── docs/
 ```
 
 ---
