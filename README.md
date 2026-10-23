@@ -66,7 +66,7 @@ During disasters, relief resources such as food and medical kits are limited, wh
 **Problem:** During disasters, relief resources such as food and medical kits are limited, while affected communities have different levels of need and urgency. Traditional allocation methods may not distribute resources efficiently or fairly, leading to delays and shortages in high-risk areas.
 
 **Why it matters:** Q-Rescue Next aims to improve disaster relief by using AI/ML-based risk assessment and hybrid quantum-classical optimization to prioritize communities and allocate limited resources more effectively. This can help reduce unmet needs, improve fairness, and support faster, data-driven emergency response decisions.
-**Track / Category:**  Offline · Track 1 / Track 2 · <domain>_
+**Track / Category:**  Offline · Track 4 · <domain>_
 
 ---
 
