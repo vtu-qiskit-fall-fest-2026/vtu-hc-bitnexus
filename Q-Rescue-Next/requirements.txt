@@ -1,7 +1,0 @@
-streamlit>=1.40
-pandas>=2.0
-plotly>=5.20
-qiskit>=1.2
-qiskit-algorithms>=0.4
-qiskit-optimization>=0.7
-scipy>=1.11
