@@ -60,16 +60,13 @@ Optional: add a plain list instead of the table above.
 ## ❓ Problem Statement
 
 <!--
-State the problem you are solving. Be specific: what is broken or missing,
-who experiences it, and why does it matter. Link to the official problem
-statement from the brief if one applies.
+During disasters, relief resources such as food and medical kits are limited, while affected communities have different levels of need and urgency. Traditional allocation methods may not distribute resources efficiently or fairly, leading to delays and shortages in high-risk areas.
 -->
 
-**Problem:** _Describe the problem in 2–3 sentences._
+**Problem:** During disasters, relief resources such as food and medical kits are limited, while affected communities have different levels of need and urgency. Traditional allocation methods may not distribute resources efficiently or fairly, leading to delays and shortages in high-risk areas.
 
-**Why it matters:** _Explain the impact or opportunity._
-
-**Track / Category:** _Online / Offline · Track 1 / Track 2 · <domain>_
+**Why it matters:** Q-Rescue Next aims to improve disaster relief by using AI/ML-based risk assessment and hybrid quantum-classical optimization to prioritize communities and allocate limited resources more effectively. This can help reduce unmet needs, improve fairness, and support faster, data-driven emergency response decisions.
+**Track / Category:**  Offline · Track 1 / Track 2 · <domain>_
 
 ---
 
@@ -80,12 +77,10 @@ Describe your solution. Keep it concrete: the core idea, the user flow, and
 the quantum/ML technique you are applying.
 -->
 
-**Solution:** _In 2–3 sentences, describe what you built._
+**Solution:** Q-Rescue Next is a disaster relief allocation system that assesses community risk and distributes limited resources, such as food and medical kits, based on urgency and need. It includes a dashboard to view allocation results and download them for further analysis.
+**Key idea:** Combine AI/ML-based risk assessment with hybrid quantum-classical optimization to support efficient and fair disaster relief allocation.
 
-**Key idea:** _The one-line technical summary of your approach._
-
-**Why this works:** _How your approach addresses the problem statement._
-
+**Why this works:** By considering population, disaster severity, medical urgency, and available supplies, the system helps prioritize vulnerable communities, reduce resource shortages, and make relief allocation more transparent and data-driven.
 ---
 
 ## 🧩 Approach & Architecture
