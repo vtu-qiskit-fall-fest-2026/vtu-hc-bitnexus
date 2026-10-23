@@ -97,11 +97,11 @@ flowchart LR
     D --> E[Output]
 ```
 
-1. **Input** — _what data goes in and in what format_
-2. **Preprocessing** — _cleaning, feature extraction, encoding_
-3. **Quantum core** — _the circuit, ansatz, or algorithm used_
-4. **Post-processing** — _decoding, measurement, scoring_
-5. **Output** — _what the user finally gets_
+1. **Input** — Community-level data, including population, disaster severity, medical urgency, food requirements, medical-kit requirements, and available resources.
+2. **Preprocessing** — Clean and validate the input data, calculate community risk scores, normalize relevant features, and convert resource requirements and allocation limits into optimization constraints.
+3. **Quantum core** — Formulate resource allocation as a constrained optimization problem. Use a classical baseline for comparison and a QAOA-based quantum approach with Qiskit to explore suitable allocations.
+4. **Post-processing** — Decode the optimizer's solution, check resource constraints, calculate allocation scores, and evaluate fairness and unmet needs.
+5. **Output** — An interactive Streamlit dashboard showing community risk scores, food and medical-kit allocations, resource shortages, allocation comparisons, and downloadable CSV reports.
 
 ---
 
